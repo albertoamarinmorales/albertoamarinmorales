@@ -1,7 +1,2 @@
-<style>
-  h1{
-    color:red;
-  }
-</style>
-<h1>Hi!</h1>
+<h1 style=" color:red">Hi!</h1>
 
